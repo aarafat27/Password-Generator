@@ -1,4 +1,4 @@
-# Password-Generator
+## 📝 Password Generator
 A single page website that generates password.
 
  ## ⚡ Technologies:
